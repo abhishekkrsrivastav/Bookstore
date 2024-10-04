@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "name":"The Silent Patient",
+        "title":"A famous painter shoots her husband and then stops speaking. A psychotherapist is determined to uncover her motive.",
+        "price":0,
+        "category":"Free",
+        "image":"https://5.imimg.com/data5/SELLER/Default/2021/9/JQ/IY/DN/133456484/the-silent-patient.jpg"
+    },
+    {
+        "id":2,
+        "name":"Atomic Habits",
+        "title":"A guide to building good habits and breaking bad ones with small changes that lead to significant results.",
+        "price":100,
+        "category":"Self-Help",
+        "image":"https://miro.medium.com/v2/resize:fit:2000/1*IirUWdu5_jw10pEb1oaLtg.jpeg"
+    },
+    {
+        "id":3,
+        "name":"Educated",
+        "title":"A woman who grows up in a strict, abusive household in rural Idaho decides to leave and pursue education.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/710SaVjYG2L._UX250_.jpg "
+    },
+    {
+        "id":4,
+        "name":"Dune",
+        "title":"A desert planet, a young noble, and a spice that holds the key to the universe's most valuable resource..",
+        "price":500,
+        "category":"Science Fiction",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg"
+    },
+    {
+        "id":5,
+        "name":"Where the Crawdads Sing",
+        "title":"A story of a mysterious wild girl living in a marsh and a murder investigation that turns the town against her.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images-eu.ssl-images-amazon.com/images/I/81e+mSqZvnL._AC_UL210_SR210,210_.jpg"
+    },
+    {
+        "id":6,
+        "name":"Becoming",
+        "title":"Michelle Obama’s journey from the South Side of Chicago to the White House.",
+        "price":200,
+        "category":"Biography",
+        "image":"https://m.media-amazon.com/images/I/81KGjsBXQ7L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":7,
+        "name":"The Subtle Art of Not Giving a F*ck",
+        "title":"A counterintuitive approach to living a good life by focusing on what's truly important.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/71t4GuxLCuL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":8,
+        "name":"The Alchemist",
+        "title":"A young shepherd's journey to fulfill his personal legend and find treasure.",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/61HAE8zahLL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":9,
+        "name":"Sapiens: A Brief History of Humankind",
+        "title":"A narrative that explores the history of human evolution, from ancient species to modern society.",
+        "price":550,
+        "category":" History",
+        "image":"https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":10,
+        "name":"The Night Circus",
+        "title":"A magical competition between two young illusionists who become entwined in a mystical circus.",
+        "price":220,
+        "category":"Fantasy",
+        "image":"https://m.media-amazon.com/images/I/815D5sneiNL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":11,
+        "name":"The Power of Now",
+        "title":"A guide to spiritual enlightenment through living in the present moment.",
+        "price":600,
+        "category":" Spirituality",
+        "image":"https://m.media-amazon.com/images/I/61Ij8nLooNL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":12,
+        "name":"The Immortal Life of Henrietta Lacks",
+        "title":"The story of a woman whose cancer cells revolutionized medical research.",
+        "price":575,
+        "category":"Non-Fiction, Science",
+        "image":"https://m.media-amazon.com/images/I/81coyP8S-ZL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":13,
+        "name":"Gone Girl",
+        "title":"A wife goes missing, and her husband becomes the prime suspect in a suspenseful psychological thriller.",
+        "price":850,
+        "category":"Thriller",
+        "image":"https://m.media-amazon.com/images/I/71+khXHbe5L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":14,
+        "name":"Thinking, Fast and Slow",
+        "title":"A look into the two systems that drive the way we think—one fast and intuitive, the other slow and deliberate.",
+        "price":1200,
+        "category":"Psychology",
+        "image":"https://m.media-amazon.com/images/I/71f6DceqZAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":15,
+        "name":"Little Fires Everywhere",
+        "title":"A perfect suburban town is rocked by the arrival of a single mother and her daughter.",
+        "price":700,
+        "category":"Fiction, Drama",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522684533i/34273236.jpg"
+    }
+]    
